@@ -1,2 +1,8 @@
 Hello,QAA
+<<<<<<< HEAD
 Have a good day! And evening! And night!
+=======
+Have a good day!
+
+Make some changes for feature1
+>>>>>>> 8ddf341 (Add some changes for feature1)
